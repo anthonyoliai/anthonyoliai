@@ -14,6 +14,12 @@
 <h2 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+
+## Connect with me
+
+[![Linkedin Badge](https://img.shields.io/badge/-AnthonyOliai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-oliai-52315118b//)](https://www.linkedin.com/in/anthony-oliai-52315118b/)
+[![Gmail Badge](https://img.shields.io/badge/-anthonyoliai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonyoliai@gmail.com)](mailto:anthonyoliai@gmail.com)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonyoliai&label=Profile%20views&color=129e00&style=plastic" alt="Anthony" /> </p>
 
 ```go
@@ -45,8 +51,3 @@ func main() {
 	fmt.Printf("\n🎉 Decoded Message: %s\n", decodedMessage)
 }
 ```
-
-## Connect with me
-
-[![Linkedin Badge](https://img.shields.io/badge/-AnthonyOliai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-oliai-52315118b//)](https://www.linkedin.com/in/anthony-oliai-52315118b/)
-[![Gmail Badge](https://img.shields.io/badge/-anthonyoliai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonyoliai@gmail.com)](mailto:anthonyoliai@gmail.com)
