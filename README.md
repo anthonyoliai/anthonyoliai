@@ -20,34 +20,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AnthonyOliai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-oliai-52315118b//)](https://www.linkedin.com/in/anthony-oliai-52315118b/)
 [![Gmail Badge](https://img.shields.io/badge/-anthonyoliai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonyoliai@gmail.com)](mailto:anthonyoliai@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anthonyoliai&label=Profile%20views&color=129e00&style=plastic" alt="Anthony" /> </p>
-
-```go
-package main
-
-import (
-	"encoding/base64"
-	"fmt"
-	"os"
-	"bufio"
-	"strings"
-)
-
-func main() {
-	encodedMessage := "SWYgeW91IHB1dCBhIG1pbGxpb24gbW9ua2V5cyBhdCBhIG1pbGxpb24ga2V5Ym9hcmRzLCBvbmUgb2YgdGhlbSB3aWxsIGV2ZW50dWFsbHkgd3JpdGUgYSBKYXZhIHByb2dyYW0uIFRoZSByZXN0IG9mIHRoZW0gd2lsbCB3cml0ZSBDIyBwcm9ncmFtcy4="
-
-	fmt.Println("🔍 Decode the following message.")
-	
-	scanner := bufio.NewScanner(os.Stdin)
-	scanner.Scan()
-	userInput := strings.TrimSpace(scanner.Text())
-
-	decodedMessage, err := decodeBase64(userInput)
-	if err != nil {
-		fmt.Println("Error decoding message:", err)
-		return
-	}
-
-	fmt.Printf("\n🎉 Decoded Message: %s\n", decodedMessage)
-}
-```
