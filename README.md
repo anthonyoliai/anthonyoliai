@@ -1,7 +1,9 @@
 ## <p align="center">Hey, I'm Anthony.</p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E4832f&width=380&height=45&lines=Gopher;Blockchain+Enthusiast;Rustacean.&center=true"></a>
+    Hi 👋, i'm Anthony! An avid Blockchain enjoyer and Software Engineer working at Distro. 
+    In my free time I love to look at smart contracts and to find vulnerabilities in them.
+    Current hobby projects include writing simple trading bots, games in Golang & doing open-source contributions.
 </p>
 
 <h2 align="left">Contributions:</h3>
