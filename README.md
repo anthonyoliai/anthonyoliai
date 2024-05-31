@@ -8,9 +8,8 @@
 
 <h2 align="left">Contributions:</h3>
 
-<p align= "left">	
+<p align= "center">	
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyoliai&show_icons=true&theme=onedark" width=48% />
-  <img src="https://github-readme-stats.vercel.app/api?username=anthonyoliai&show_icons=true&locale=en&theme=cobalt" width=46% alt="Anthony" />
 </p>
 
 <h2 align="left">Languages and Tools:</h3>
