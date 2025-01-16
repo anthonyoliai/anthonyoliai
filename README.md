@@ -1,9 +1,8 @@
 ## <p align="center">Hey, I'm Anthony.</p>
 
 <p align="center">
-    Hi 👋, i'm Anthony! An avid Blockchain enjoyer and Software Engineer working at Distro. 
-    In my free time I love to look at smart contracts and to find vulnerabilities in them.
-    Current hobby projects include writing simple trading bots, games in Golang & doing open-source contributions.
+    Hi 👋, i'm Anthony! Blockchain enjoyer & software engineer working at Distro. 
+    Current personal projects include writing simple trading bots, games in Golang & doing open-source contributions.
 </p>
 
 <h2 align="center">Languages and Tools:</h3>
@@ -22,7 +21,7 @@
 
 
 
-## Connect with me
+## Personal deets
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnthonyOliai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anthony-oliai-52315118b//)](https://www.linkedin.com/in/anthony-oliai-52315118b/)
 [![Gmail Badge](https://img.shields.io/badge/-anthonyoliai@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anthonyoliai@gmail.com)](mailto:anthonyoliai@gmail.com)
