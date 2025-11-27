@@ -1,8 +1,8 @@
 ## <p align="center">Hey, I'm Anthony.</p>
 
 <p align="center">
-    Hi 👋, i'm Anthony! Blockchain enjoyer & software engineer working at Distro. 
-    Current personal projects include writing simple trading bots, games in Golang & doing open-source contributions.
+    Hi 👋, i'm Anthony! Software engineer working at [Distro](https://www.distroenergy.com/). 
+
 </p>
 
 <h2 align="center">Languages and Tools:</h3>
